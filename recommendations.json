@@ -1,6 +1,7 @@
 [{
   "title": "Redirect toward a positive behavior",
   "option": "A great option",
+  "img":"https://res.cloudinary.com/dz5tygrlq/image/upload/v1682411676/1_fxsegf.png",
   "recommendations": [
     {
       "option": "Encourage another behavior to take the place of your child’s hurtful behavior",
@@ -28,6 +29,7 @@
 },{
   "title": "Spank your child",
   "option": "Not recommended",
+  "img":"https://res.cloudinary.com/dz5tygrlq/image/upload/v1682411676/2_qukk5k.png",
   "recommendations": [
     {
       "option": "In the long run, it can make matters worse"
@@ -55,6 +57,7 @@
 },{
   "title": "Set the rule by firmly saying “No Hitting.”",
   "option": "A great option",
+  "img":"https://res.cloudinary.com/dz5tygrlq/image/upload/v1682411676/3_szvcrw.png",
   "recommendations": [
     {
       "option": "Children want to know what is allowed."
@@ -75,6 +78,7 @@
 },{
   "title": "Later, praise your child for playing nicely",
   "option": "A great option",
+  "img":"https://res.cloudinary.com/dz5tygrlq/image/upload/v1682411676/4_hm6d3b.png",
   "recommendations": [
     {
       "option": "Catch your child being good"
@@ -92,6 +96,7 @@
 },{
   "title": "Ask your child how the other child feels",
   "option": "A great option",
+  "img":"https://res.cloudinary.com/dz5tygrlq/image/upload/v1682411676/5_if8zsh.png",
   "recommendations": [
     {
       "option": "Ask questions about the feelings of the person who was hurt",
@@ -116,6 +121,7 @@
 },{
   "title": "Place your child in time-out",
   "option": "A good option after others have been tried",
+  "img":"https://res.cloudinary.com/dz5tygrlq/image/upload/v1682411676/6_ipsysm.png",
   "recommendations": [
     {
       "option": "Not recommended for children < 3 years"
@@ -136,6 +142,7 @@
 },{
   "title": "Yell or speak angrily at your child",
   "option": "Not recommended",
+  "img":"https://res.cloudinary.com/dz5tygrlq/image/upload/v1682411676/7_rfbctc.png",
   "recommendations": [
     {
       "option": "Not effective in the long run"
@@ -156,6 +163,7 @@
 },{
   "title": "Say “No” to your child",
   "option": "A good option after others have been tried",
+  "img":"https://res.cloudinary.com/dz5tygrlq/image/upload/v1682411677/8_bbxqcp.png",
   "recommendations": [
     {
       "option": "Do not use too frequently"
@@ -176,6 +184,7 @@
 },{
   "title": "Take away a privilege",
   "option": "A good option after others have been tried",
+  "img":"https://res.cloudinary.com/dz5tygrlq/image/upload/v1682411677/9_lrxuxz.png",
   "recommendations": [
     {
       "option": "A good option for older children"
@@ -199,6 +208,7 @@
 },{
   "title": "Give a warning",
   "option": "A good option after others have been tried",
+  "img":"https://res.cloudinary.com/dz5tygrlq/image/upload/v1682411678/10_hnopqh.png",
   "recommendations": [
     {
       "option": "Firmer voice warning often works",
@@ -222,6 +232,7 @@
 },{
   "title": "The power of play",
   "option": "A great option",
+  "img":"https://res.cloudinary.com/dz5tygrlq/image/upload/v1682411677/11_vzvrc2.png",
   "recommendations": [
     {
       "option": "Play decreases stress levels"
@@ -239,6 +250,7 @@
 },{
   "title": "Physical activity, sports, or martial arts",
   "option": "A great option",
+  "img":"https://res.cloudinary.com/dz5tygrlq/image/upload/v1682411677/12_jmthmy.png",
   "recommendations": [
     {
       "option": "Physical activity decreases stress"
@@ -270,6 +282,7 @@
 },{
   "title": "Ignore the behavior",
   "option": "Not recommended",
+  "img":"https://res.cloudinary.com/dz5tygrlq/image/upload/v1682411677/13_cymexa.png",
   "recommendations": [
     {
       "option": "Ignoring lets a young child feel that hurting others is all right"
@@ -295,6 +308,7 @@
 },{
   "title": "Ask your child about their feelings",
   "option": "A good option after others have been tried",
+  "img":"https://res.cloudinary.com/dz5tygrlq/image/upload/v1682411677/14_nlsopt.png",
   "recommendations": [
     {
       "option": "A child might be",
@@ -320,6 +334,7 @@
 },{
   "title": "Tell them, “You are a bad child”",
   "option": "Not recommended",
+  "img":"https://res.cloudinary.com/dz5tygrlq/image/upload/v1682411677/15_wu18bq.png",
   "recommendations": [
     {
       "option": "Think of the behavior as bad, or hurtful, but not the child"
@@ -334,6 +349,7 @@
 },{
   "title": "Leave the area",
   "option": "A good option after others have been tried",
+  "img":"https://res.cloudinary.com/dz5tygrlq/image/upload/v1682411677/16_z9r6jb.png",
   "recommendations": [
     {
       "option": "Before the next public outing, let your child know that you are serious about good behavior in public"
@@ -351,6 +367,7 @@
 },{
   "title": "Discuss why hurtful behavior is wrong",
   "option": "A great option",
+  "img":"https://res.cloudinary.com/dz5tygrlq/image/upload/v1682411677/17_yq4ydf.png",
   "recommendations": [
     {
       "option": "You can talk about “why” in simple terms, even when children are young"
@@ -377,6 +394,7 @@
 },{
   "title": "Set future expectations for behavior",
   "option": "A great option",
+  "img":"https://res.cloudinary.com/dz5tygrlq/image/upload/v1682411678/18_soomuw.png",
   "recommendations": [
     {
       "option": "Occasionally, everybody chooses inappropriate ways to respond to life’s challenges"
@@ -396,6 +414,7 @@
 },{
   "title": "Role play at another time",
   "option": "A good option after others have been tried",
+  "img":"https://res.cloudinary.com/dz5tygrlq/image/upload/v1682411678/19_elxcah.png",
   "recommendations": [
     {
       "option": "Everyone needs practice"
@@ -419,6 +438,7 @@
 },{
   "title": "Change your daily schedule",
   "option": "A good option after others have been tried",
+  "img":"https://res.cloudinary.com/dz5tygrlq/image/upload/v1682411678/20_fki11q.png",
   "recommendations": [
     {
       "option": "A great option () for children who have ongoing behavior problems"
